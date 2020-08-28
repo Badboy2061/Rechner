@@ -4,8 +4,9 @@ Das ist ein Rechner, wenn auch ein sehr unhandlicher, aber auf jeden Fall ein
 Rechner. Als erstes gibst du zwei Zahlen ein und danach die Rechenoption.
 Nachdem du das eingegeben hast wird es berechnet. Beim Addieren und
 Subtrahieren steht es so da wie man es in der wirklichkeit schriftlich
-berechnen würde. Beim Multiplizieren hoffentlich auch bald. Beim Dividieren
-steht einfach nur das Ergbebnis. Wahlweise mit Rest oder Nachkommastellen.
+berechnen würde. Beim Multiplizieren auch. Leider gibt es noc ein paar Fehler.
+Beim Dividieren steht einfach nur das Ergbebnis, da es einfach zu schwer ist.
+Wahlweise mit Rest oder Nachkommastellen.
 """)
 
 
