@@ -49,7 +49,7 @@ Gib 'Rest' für das Ergebnis mit Rest ein und 'ohne Rest' für das Ergebnis ohne
 Rest.""")
 
                         rest = input("""
-    Auswahl:""")
+Auswahl:""")
 
                         if rest == "Rest":
                             print(n1, zeichen, n2, "=", n1 // n2)
@@ -60,7 +60,7 @@ Rest.""")
 
                         else:
                             print("""
-    Ungültige Angabe!""")
+Ungültige Angabe!""")
                             schleife4 += 1
                 else:
                     schleife3 += 1
