@@ -67,14 +67,13 @@ Ungültige Angabe!""")
                     print("""
 Ungültiges Zeichen""")
 
-
-neustarten = input("""
+                neustarten = input("""
 Willst du dieses Programm neustarten?(ja/nein) """)
-schleife5 = 1
-while schleife5 > -1:
-    if neustarten == "ja":
-        schleife += 1
-    elif neustarten == "nein":
-        exit()
-    else:
-        schleife5 += 1
+                schleife5 = 1
+                while schleife5 > -1:
+                    if neustarten == "ja":
+                        schleife += 1
+                    elif neustarten == "nein":
+                        exit()
+                    else:
+                        schleife5 += 1
