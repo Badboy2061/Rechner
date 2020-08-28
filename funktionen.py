@@ -9,6 +9,9 @@ steht einfach nur das Ergbebnis. Wahlweise mit Rest oder Nachkommastellen.
 """)
 
 
+# Testing GitHub
+
+
 def length(a):
     a = str(object=a)
     a = len(a) - 1
