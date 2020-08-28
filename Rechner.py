@@ -71,6 +71,9 @@ Ungültiges Zeichen""")
 Willst du dieses Programm neustarten?(ja/nein) """)
                 schleife5 = 1
                 while schleife5 > -1:
+                    print("""
+Wenn du dieses Programm über den Link geöffnet hast dann funktioniert das
+nicht!""")
                     if neustarten == "ja":
                         schleife += 1
                     elif neustarten == "nein":
